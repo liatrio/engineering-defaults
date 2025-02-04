@@ -1,6 +1,6 @@
-# Sensible Defaults
+# Engineering Defaults
 
-Sensible Defaults outline the way product teams should operate under most circumstances. ​These practices outline the overall principles and ways of operating for the organization. ​Product Teams should continuously improve and focus to meet these goals. ​Sensible defaults are not binary - achieving sensible defaults is a journey.​ These principles are tightly intertwined and there is no correct order.​
+Engineering Defaults outline the way product teams should operate under most circumstances. ​These practices outline the overall principles and ways of operating for the organization. ​Product Teams should continuously improve and focus to meet these goals. Engineering defaults are not binary - achieving engineering defaults is a journey.​ These principles are tightly intertwined and there is no correct order.​
 
 - [Smaller Stories](small-stories/README.md)
 - [Pair Programming](pair-programming/README.md)

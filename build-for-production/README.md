@@ -8,7 +8,7 @@ Teams that build for production ensure that all the work they are building is ob
 
 It’s much harder to add observability and supportability ‘hooks’ after a feature is complete and usually requires significant refactoring. Putting a minimum set of observability and runbooks/KB in place before shipping to production increases resilience of the system, and allows for faster feedback.
 
-The 2022 State of DevOps report found "when a service is unreliable, users won’t benefit from pushing code faster into that fragile context." This means that benefits of the other Sensible Defaults can be limited (or unlocked) by how the team is Building for Production.
+The 2022 State of DevOps report found "when a service is unreliable, users won’t benefit from pushing code faster into that fragile context." This means that benefits of the other Engineering Defaults can be limited (or unlocked) by how the team is Building for Production.
 
 ## How to I achieve Build for Production?
 
