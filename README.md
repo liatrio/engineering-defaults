@@ -13,4 +13,4 @@ Engineering Defaults outline the way product teams should operate under most cir
 - [Build in Security](build-in-security/README.md)
 - [Build for Production](build-for-production/README.md)
 
-<img src="./assets/sd-journey.png" alt="journey" width="800"/>
+<img src="./assets/engd-journey.png" alt="journey" width="800"/>
