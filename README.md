@@ -4,9 +4,9 @@ Engineering Defaults outline the way product teams should operate under most cir
 
 - [Smaller Stories](small-stories/README.md)
 - [Pair Programming](pair-programming/README.md)
+- [Team Ownership of Quality](team-ownership-of-quality/README.md)
 - [Trunk Based Development](trunk-based-development/README.md)
 - [Test Driven Development](test-driven-development/README.md)
-- [Team Ownership of Quality](team-ownership-of-quality/README.md)
 - [Fast Automated Builds](fast-automated-builds/README.md)
 - [Automated Deployments](automated-deployments/README.md)
 - [Continuous Delivery](continuous-delivery/README.md)
